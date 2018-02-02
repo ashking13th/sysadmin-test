@@ -4,6 +4,14 @@
 
 ## Problem 2
 
+students.iitmandi.ac.in is a subdomain of iitmandi.ac.in . Subdomains do not require a separate registration as they are a part of the main domain itself. So we can say the registration details of students.iitmandi.ac.in will be same as that of iitmandi.ac.in .
+
+A simple whois lookup gives us the required data.
+
+Sponsoring Registrar: `ERNET India (R9-AFIN)`
+
+
+
 ## Problem 3
 
 DuckDuckGo uses AWS EC2 servers as well as it's own data servers.
